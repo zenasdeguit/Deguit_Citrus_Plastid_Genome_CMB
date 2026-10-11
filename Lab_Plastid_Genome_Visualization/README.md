@@ -112,7 +112,7 @@ The original GenBank file was preserved without modification. The working copy u
 
 ### Figure 1. Circular Chloroplast Genome Map of Citrus sinensis
 
-![Circular Chloroplast Genome Map of Citrus sinensis](figures/Citrus_sinensis_plastid_map.png)
+![Circular Plastid Genome Map of Citrus sinensis](figures/Citrus_sinensis_plastid_map.png)
 
 *Figure 1. Circular Chloroplast Genome Map of _Citrus sinensis_ (NC_008334.1).* The map was generated using OrganellarGenomeDRAW (OGDRAW) and illustrates the organization of the 160,129-bp chloroplast genome. It shows the Large Single-Copy (LSC) region, Small Single-Copy (SSC) region, and two Inverted Repeat regions (IRa and IRb). Genes are color-coded according to their functional categories, and their positions indicate their distribution and orientation along the genome. The inner graph represents GC content variation, while the legend identifies the major gene groups.
 
