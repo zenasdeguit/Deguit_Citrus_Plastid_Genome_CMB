@@ -3,7 +3,7 @@
 
 *Course:* Cell and Molecular Biology Laboratory  
 *Selected Species:*
-Citrus sinensis (Sweet Orange)  
+_Citrus sinensis_ (Sweet Orange)  
 *NCBI Accession:* NC_008334.1  
 *Genome Length:* 160,129 bp  
 *Visualization Tool:* OrganellarGenomeDRAW (OGDRAW)
@@ -12,11 +12,11 @@ Citrus sinensis (Sweet Orange)
 
 ### 1. What is the scientific name of your chosen plant and its plastid genome accession number?
 
-The selected plant is Citrus sinensis (L.) Osbeck, commonly known as sweet orange, which belongs to the family Rutaceae. Its complete chloroplast genome was obtained from the NCBI RefSeq database under accession number NC_008334.1.
+The selected plant is _Citrus sinensis_ (L.) Osbeck, commonly known as sweet orange, which belongs to the family Rutaceae. Its complete chloroplast genome was obtained from the NCBI RefSeq database under accession number NC_008334.1.
 
 ### 2. What is the total length of the plastid genome in base pairs?
 
-The complete chloroplast genome of Citrus sinensis is 160,129 base pairs (bp) long. This genome length was confirmed using the NCBI GenBank record and Galaxy gfastats analysis from the previous laboratory activity.
+The complete chloroplast genome of _Citrus sinensis_ is 160,129 base pairs (bp) long. This genome length was confirmed using the NCBI GenBank record and Galaxy gfastats analysis from the previous laboratory activity.
 
 ### 3. Can you identify the LSC, SSC, IRa, and IRb regions on your map? Briefly describe their positions.
 
@@ -40,7 +40,7 @@ One example of a gene located in the SSC region is *ndhA*, which encodes a subun
 
 ### 6. Give at least one example of a gene that occurs within an inverted repeat region. Is the gene shown more than once because of the duplicated IR regions?
 
-The *rpl2* gene is located within the inverted-repeat regions of the Citrus sinensis chloroplast genome. It encodes a protein component of the large ribosomal subunit, which is involved in protein synthesis. The gene occurs in both IRa and IRb, resulting in two copies because the inverted repeats contain duplicated genomic sequences.
+The *rpl2* gene is located within the inverted-repeat regions of the _Citrus sinensis_ chloroplast genome. It encodes a protein component of the large ribosomal subunit, which is involved in protein synthesis. The gene occurs in both IRa and IRb, resulting in two copies because the inverted repeats contain duplicated genomic sequences.
 
 ### 7. Choose one photosynthesis-related gene visible on your map. State its gene name and its general biological function.
 
@@ -64,7 +64,7 @@ A graphical plastid genome map provides a clearer representation of genome organ
 
 The circular plastid genome map of Citrus sinensis illustrates a complete chloroplast genome measuring 160,129 bp. It displays the typical quadripartite organization consisting of the LSC, SSC, IRa, and IRb regions. Important genes involved in photosynthesis, transcription, translation, and other plastid functions are distributed throughout the genome.
 
-The map also illustrates gene orientation, duplicated genes within the inverted-repeat regions, and variations in GC content. Overall, OGDRAW provided a clear visualization of the structural and functional organization of the Citrus sinensis chloroplast genome.
+The map also illustrates gene orientation, duplicated genes within the inverted-repeat regions, and variations in GC content. Overall, OGDRAW provided a clear visualization of the structural and functional organization of the _Citrus sinensis_ chloroplast genome.
 
 ---
 
